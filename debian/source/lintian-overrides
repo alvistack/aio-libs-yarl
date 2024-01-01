@@ -1,0 +1,5 @@
+python-yarl source: file-without-copyright-information
+python-yarl source: no-debian-changes
+python-yarl source: source-contains-prebuilt-windows-binary
+python-yarl source: source-is-missing
+python-yarl source: source-package-encodes-python-version
