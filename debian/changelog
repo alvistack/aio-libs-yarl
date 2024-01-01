@@ -1,0 +1,5 @@
+python-yarl (100:1.9.2-3) UNRELEASED; urgency=medium
+
+  * https://github.com/aio-libs/yarl/releases/tag/v1.9.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 01 Jan 2024 11:25:15 +0800
