@@ -105,3 +105,5 @@ yarl/*.html
 .install-deps
 .pytest_cache
 pip-wheel-metadata
+
+.pybuild/

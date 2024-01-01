@@ -1,0 +1,4 @@
+python3-yarl: copyright-without-copyright-notice
+python3-yarl: initial-upload-closes-no-bugs
+python3-yarl: no-manual-page
+python3-yarl: zero-byte-file-in-doc-directory
